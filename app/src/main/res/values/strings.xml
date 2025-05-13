@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TSDMHp2E2BEM</string>
+    <string name="p1t1">objetos parcelables</string>
+    <string name="p1lblnombre">Nombre</string>
+    <string name="p1hint1">ingresa tu nombre aqui</string>
+    <string name="p1lbledad">Edad</string>
+    <string name="p1hint2">ingresa tu edad aqui</string>
+    <string name="p1lblcorreo">correo</string>
+    <string name="p1hint3">ingresa tu correo aqui</string>
+    <string name="p1b1enviar">Enviar objeto</string>
+
+    <string name="p2t1">recibimos parcelables</string>
+
+</resources>
